@@ -1,0 +1,15 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+        <PackageVersion Include="Bruteflow" Version="2.3.0" />
+        <PackageVersion Include="Confluent.Kafka" Version="1.5.2" />
+        <PackageVersion Include="MessagePack" Version="2.2.60" />
+        <PackageVersion Include="Microsoft.Extensions.Configuration" Version="3.1.10" />
+        <PackageVersion Include="Microsoft.Extensions.Logging" Version="3.1.10" />
+        <PackageVersion Include="Newtonsoft.Json" Version="12.0.3" />
+        <PackageVersion Include="Bruteflow.Kafka" Version="2.3.0" />
+        <PackageVersion Include="JustEat.StatsD" Version="4.2.0" />
+  </ItemGroup>
+</Project>
