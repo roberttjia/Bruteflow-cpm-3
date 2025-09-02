@@ -3,6 +3,7 @@
 
 1. Netcoreapp3.1
 2. Nested Directory.Packages.props
+3. CPM disabled for one project (Bruteflow.Kafka.Tests) in nested Directory.Packages.props
 
 # Bruteflow libraries
 
