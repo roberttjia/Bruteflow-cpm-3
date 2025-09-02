@@ -2,7 +2,7 @@
 # Central Package Management Test
 
 1. Netcoreapp3.1
-2. Nested Directory.Packages.prps
+2. Nested Directory.Packages.props
 
 # Bruteflow libraries
 
